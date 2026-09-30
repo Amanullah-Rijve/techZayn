@@ -1,4 +1,4 @@
-TECHZYN Systems — Website
+TECHZYN Systems — Agency Website
 
 React + Tailwind CSS landing page for TECHZYN Systems, built to match the brand doc (colors, fonts, tagline).
 
@@ -19,4 +19,4 @@ src/index.css — Tailwind + base styles
 tailwind.config.js — brand colors (brand.blue, brand.cyan, brand.purple, brand.navy, brand.light) and fonts (Poppins for headings, Inter for body)
 Editing content
 
-Text and services live directly inside each component file in src/components/ — edit them there, no separate content file.s
+Text and services live directly inside each component file in src/components/ — edit them there, no separate content file.
